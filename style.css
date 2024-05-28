@@ -78,7 +78,7 @@ section nav .icon i:hover{
     color: #ff8080;
 }
 
-section .main{
+section .main {
     display: flex;
     align-items: center;
     justify-content: space-around;
@@ -86,14 +86,14 @@ section .main{
     top: 130px;
 }
 
-section .main .men_text h1{
+section .main .men_text h1 {
     font-size: 60px;
     position: relative;
     top: -150px;
     left: 20px;
 }
 
-section .main .men_text h1 span{
+section .main .men_text h1 span {
     margin-left: 15px;
     color: #ff8080;
     font-family: mv boli;
@@ -101,13 +101,13 @@ section .main .men_text h1 span{
     font-size: 70px;
 }
 
-section .main .main_image img{
+section .main .main_image {
     width: 550px;
     position: relative;
     left: 70px;
 }
 
-section p{
+section p {
     width: 650px;
     text-align: justify;
     position: relative;
@@ -116,7 +116,7 @@ section p{
     line-height: 22px;
 }
 
-section .main_btn{
+section .main_btn {
     background: #ff8080;
     position: relative;
     left: 123px;
@@ -126,18 +126,18 @@ section .main_btn{
     padding: 12px 25px;
 }
 
-section .main_btn a{
+section .main_btn a {
     color: #fff;
     margin-right: 5px;
     text-decoration: none;
 }
 
-section .main_btn i{
+section .main_btn i {
     color: #fff;
     transition: 0.3s;
 }
 
-section .main_btn:hover i{
+section .main_btn:hover i {
     transform: translateX(7px);
 }
 
