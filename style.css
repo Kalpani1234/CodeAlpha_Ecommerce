@@ -331,7 +331,7 @@ section .main_btn:hover i {
     justify-content: center;
     text-decoration: none;
     color: white;
-    background: #000;
+    background: #ff8080;
     padding: 8px 10px;
     margin: 0 80px;
     transition: 0.3s;
