@@ -80,6 +80,7 @@ section nav .icon i:hover{
 
 section .main {
     display: flex;
+    background-image: url(image/bg1.jpg);
     align-items: center;
     justify-content: space-around;
     position: relative;
@@ -152,6 +153,7 @@ section .main_btn:hover i {
 .about{
     width: 100%;
     height: 100vh;
+    background-image: url(image/bg1.jpg);
     padding: 70px 0;
 }
 
@@ -204,6 +206,7 @@ section .main_btn:hover i {
 .menu{
     width: 100%;
     padding: 70px 0;
+    background-image: url(image/bg1.jpg);
 }
 
 .menu h1{
@@ -344,6 +347,7 @@ section .main_btn:hover i {
 .gallary{
     width: 100%;
     padding: 70px 0;
+    background-image: url(image/bg1.jpg);
 }
 
 .gallary h1{
@@ -449,7 +453,7 @@ section .main_btn:hover i {
     width: 100%;
     height: 100vh;
     padding: 70px 0;
-    background-image: url(image/bg2.jpg);
+    background-image: url(image/bg1.jpg);
     background-size: cover;
     background-position: center;
 }
