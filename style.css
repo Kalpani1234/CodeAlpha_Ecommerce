@@ -765,22 +765,27 @@ footer{
     background: #ffe6e6;
 }
 
-footer .footer_main{
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
-}
+
 
 footer .footer_main .footer_tag{
     text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 footer .footer_main .footer_tag h2{
     color: #000;
     margin-bottom: 25px;
     font-size: 30px;
+    
 }
 
 footer .footer_main .footer_tag p{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
     margin: 10px 0;
 }
 
