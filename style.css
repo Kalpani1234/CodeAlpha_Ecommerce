@@ -107,6 +107,11 @@ section .main .main_image {
     left: 70px;
 }
 
+section .carousel-inner img {
+    width: 100%;
+    height: auto;
+}
+
 section p {
     width: 650px;
     text-align: justify;
@@ -140,7 +145,6 @@ section .main_btn i {
 section .main_btn:hover i {
     transform: translateX(7px);
 }
-
 
 
 /*About*/
