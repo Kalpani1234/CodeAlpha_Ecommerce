@@ -21,7 +21,7 @@ section nav{
     position: fixed;
     right: 0;
     left: 0;
-    background: white;
+    background: #ffe6e6;
     box-shadow: 0 0 10px rgba(0,0,0,0.5);
     z-index: 1000;
 }
@@ -43,7 +43,7 @@ section nav ul li{
 
 section nav ul li a{
     text-decoration: none;
-    color: #000;
+    color: #ff4d4d;
     font-weight: 500;
     font-size: 17px;
     transition: 0.1s;
@@ -68,7 +68,7 @@ section nav ul li a:hover{
 
 section nav .icon i{
     font-size: 18px;
-    color: #000;
+    color: #ff4d4d;
     margin: 0 5px;
     cursor: pointer;
     transition: 0.3s;
@@ -179,15 +179,11 @@ section .main_btn:hover i {
     bottom: 30px;
 }
 
-.about .about_main .about_text h3{
-    font-size: 30px;
-    margin: 0 0 50px 0;
-}
 
 .about .about_main .about_text p{
-    width: 650px;
+    width: 600px;
     text-align: justify;
-    margin-right: 30px;
+    margin-right: 70px;
     line-height: 22px;
 }
 
@@ -198,7 +194,7 @@ section .main_btn:hover i {
     color: #fff;
     position: relative;
     left: 55%;
-    bottom: 30px;
+    bottom: 100px;
 }
 
 
